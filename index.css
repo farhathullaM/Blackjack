@@ -1,0 +1,32 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("pexels-andre-furtado-370717.jpg");
+    background-size: cover;
+    text-align: center;
+    color: rgb(118, 233, 10);
+    font-weight: bolder;
+    height: 100vh;
+}
+
+h1 {
+    color: rgb(241, 170, 6);
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
